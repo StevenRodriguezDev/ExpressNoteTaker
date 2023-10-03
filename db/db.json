@@ -4,13 +4,18 @@
         "text": "Test text"
     },
     {
-        "title": "make bed",
-        "text": "early\n",
-        "id": "766d"
+        "title": "Do hw",
+        "text": "all bootcamp modules\ngroup projects\n",
+        "id": "194a"
     },
     {
-        "title": "make breakfast",
-        "text": "fold laundry too",
-        "id": "b917"
+        "title": "wake up early for school",
+        "text": "feed son before day care",
+        "id": "c847"
+    },
+    {
+        "title": "make read me for this hw",
+        "text": "use the readme generator",
+        "id": "7a1f"
     }
 ]
