@@ -46,7 +46,11 @@ fsUtils.readAndAppend(userNote, "./db/db.json");
   res.json("YAY Note is added!");
 });
 
-
+//delete
+app.delete("/api/notes/:id", (req, res) => {
+fsUtils.deleteAndAppend(req.params.id, "./db/db.json")
+res.json("Your note is deleted!")
+});
 
 // server
 app.listen(PORT, () =>
